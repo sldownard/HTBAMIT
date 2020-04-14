@@ -1,29 +1,40 @@
 # How to be a Manager in Tech
 
-This guide is written for the new manager of a team of engineers -- systems, software,
+Author: Sabrina L Downard.
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+## Summary
+
+Are you a tech manager, looking for help becoming a good tech manager? Not sure what
+you don't know yet, or uncertain about tasks that are outside of your comfort zone?
+This Guide is written for the new manager of a team of engineers -- systems, software,
 networking, or any other flavor -- or for managers who want to develop their skills.
-Many of us are thrown in with no background in management or leadership, because we
-are good engineers and this is the default promotion path in many organizations.
-However, the skill sets that make one a successful engineer as an individual
-contributor are not the same skill sets that make one a successful leader of people.
-For those who have been thrown in to the deep end and want to learn how move beyond
-treading water, I hope these articles will provide what you need to succeed in your
-new career.
+
+Many tech managers are thrown in with no background in management or leadership, because we
+are good engineers, and that is the default promotion path in many organizations.
+However, the skill sets that make one a successful individual contributor are not the 
+same skill sets that make one a successful leader of people.
+
+For those who have been put in a management role and now want to increase your knowledge,
+I hope these articles will provide tools to help you succeed in your new career.
+
+This guide has been inspired by the excellent [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer)
+project and owes it a debt of gratitude for the .
 
 ## How to Use This Guide
 
 The articles in this guide are short and can be read on their own, as you're
 starting to browse, but the guide is meant to be read as a whole. 
 
-Get started with the [Table of Contents](TOC.md).
+Get started with the [Table of Contents (English)](en/README.md).
 
 # The principles of this Guide (unless you have better ideas)
 
-In the spirit of open source, please feel free to contribute articles on
-new topics, or amendments to existing ones. These are the tenets
-for this guide:
-
-1. **Write in plain language.** The guide is here to make life easier. Using
+1. **This is for everyone.** This project is licensed for sharing, including by
+commercial entities who may wish to build materials which they will not share
+back, such as business training materials. Community contributions to extend
+and enhance the Guide are welcome.
+1. **Use plain language.** The Guide is here to make life easier. Using
 short declarative sentences is easier to read. If there are two words that
 can convey the same idea, prefer the shorter, more common variant. Avoid idioms,
 metaphors, and in-jokes that will not reach all audiences. 
@@ -43,13 +54,15 @@ your resource usage.
 
 ## (and some fine print)
 
+* This Guide is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). 
 * This Guide has a [code of conduct](CODE_OF_CONDUCT.md).
-* Style conforms to American English spelling and conventions, including the 
-Oxford comma and placing punctuation inside quote marks. 
+* Style conforms to American English spelling and conventions, including the Oxford (serial) comma and placing punctuation inside quote marks. 
 * Write in the second ("you click") or third person ("they click"). Avoid first person ("I click"). Use singular they in the third person.
 * Write in the active voice ("they write code") rather than passive ("code is written 
 by them").
 * Use people-based language. The people who report to the people reading this 
 Guide are "engineers," not "directs," "reports," or "resources." (If appropriate,
 terms like "new hire" can be used for disambiguation.)
+* If you would like to add but aren't sure where to start, why not start with the [TODOs](en/99_TODO.md)?
+
 
