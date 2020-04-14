@@ -40,6 +40,10 @@ and enhance the Guide are welcome.
 short declarative sentences is easier to read. If there are two words that
 can convey the same idea, prefer the shorter, more common variant. Avoid idioms,
 metaphors, and in-jokes that will not reach all audiences. 
+1. **Answer what, why, and how.** Each article should cover a single topic (though
+it may reference others), and it should explain why that skill is important, and 
+how someone can learn it. We start from the perspective that all shortcomings can
+be fixed or resolved, so use solutions-oriented language.
 1. **The meritocracy is a myth.** We are all human, and we want to believe that as
 colleagues and especially as managers we make fair decisions. However, we are
 all susceptible to unconscious biases and preferences, and to be frank, equal 
