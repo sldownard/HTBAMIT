@@ -1,7 +1,5 @@
 # The difference between Management and Leadership
 
-## Summary
-
 The difference between management and leadership, according to the management books, is simple:
 management is the administrative function, and leadership is the creative function. In short,
 managers make sure people come to work, perform their job requirements, and get paid, and
