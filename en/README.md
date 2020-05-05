@@ -13,9 +13,9 @@
   - [How to move your team from firefighting to strategic](team/move-your-team-from-firefighting-to-strategic.md)
   - [How to address technical debt](team/address-technical-debt.md)
   - [How to use silos appropriately](team/use-silos-appropriately.md)
-  - [How to create a roadmap](team/create-a-roadmap.md)
+  - [How to create a roadmap](team/create-a-roadmap-for-your-product-or-team.md)
   - [How to move fast without breaking things](team/move-fast-without-breaking-things.md)
-  - [How to handle an outage and recover from it](team/handle-outage-and-recover.md)
+  - [How to handle an outage and recover from it](team/handle-outages-and-events.md)
   - [How to increase engineer engagement](team/increase-engineer-engagement.md)
 
 ### How to manage your people
@@ -26,5 +26,5 @@
   - [How to coach someone who is struggling](people/coach-someone-struggling.md)
 
 ### How to manage others
-  - [How to build a coalition](people/build-a-coalition.md)
-  - [How to build a bridge to another team](people/build-a-bridge-to-another-team.md)
+  - [How to build a coalition](others/build-a-coalition.md)
+  - [How to build a bridge to another team](others/build-a-bridge-to-another-team.md)

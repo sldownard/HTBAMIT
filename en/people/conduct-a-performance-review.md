@@ -5,7 +5,7 @@ a meeting, nobody is surprised by any of the feedback. Of course, that's not how
 happens.
 
 Organizations have highly variable ideas of how to do performance management, ranging from
-no annual reviews at all to highly involved 360&grade; feedback processes. You may present
+no annual reviews at all to highly involved 360° feedback processes. You may present
 people with a raise that is a fait accompli, you may expect people to show up and negotiate
 for any salary increases, or you may have a salary review process that's completely divorced
 from performance reviews. The first thing to do, if you're new to your company, is to 
@@ -26,7 +26,7 @@ to work in. Let people talk about how they are feeling, what challenges they hav
 they are looking for from you, and opportunities to give feedback will
 come up organically in conversation. Make sure you include regular checkpoints about 
 career development, and a discussion about performance will flow from that. The key
-is to just do it, and not put it off -- especially when you have someone who needs
+is to just do it, and not put it off, especially when you have someone who needs
 extra support or is underperforming.
 
 ## About the work people are doing
@@ -44,20 +44,23 @@ When it comes to [glue work](https://noidea.dog/glue) in particular: you may hav
 who makes space for everyone to contribute in meetings, who knows people on all the
 other teams and can make connections to help unblock their colleagues, or who just
 makes things happen and keeps the team performing at a high level. This work is called
-glue work because it keeps things from falling apart. Especially if your teams are
+glue work because it keeps things from coming apart. Especially if your teams are
 cross-functional and this one engineer is the one who keeps tabs on everything, this
 work is valuable and you should recognize the value that they bring. You should also
-recognize that they are likely not doing it because they secretly want to be a TPM
-instead of a software developer, but because they saw a gap and knew someone had to 
-keep things from falling apart, so they stepped up. That's leadership in action. 
+recognize that glue engineering is an anti-pattern. They are likely not doing it 
+because they secretly want to be a TPM instead of a software developer, but because 
+they saw a problem and knew someone had to keep things from falling apart, so they 
+stepped up. That's leadership in action. Unfortunately, it often gets looked over 
+and considered non-promotable work, so your valuable engineer who makes everyone 
+else more effective winds up stuck, going nowhere, until they leave.
 Have a frank discussion with glue engineers about why they are doing things, and
 ask how you can help. And if they want to be doing engineering work but can't seem 
 to get rid of the responsibilities they acquired by being glue, then you need
 to make it possible for them to do so, by picking up the glue roles they've been
 filling, or redirecting them away from tasks if necessary. But don't just let them
 be glue forever, stagnating their careers by performing fewer core responsibilities
-that are used to determine their raises and promotions, while you and your team 
-benefits from their work.
+so they get lower raises and fewer promotions, while you and your team 
+benefit from their work.
 
 
 ## About conversations
@@ -86,7 +89,7 @@ to address to get to that outcome? Be clear about what you are trying to achieve
 unresponsive to you as you talk? Are they going to get defensive and rebut every
 comment? Are they going to cry? You know how the person usually acts, so how will they 
 be under this stress?
-* Try role-playing the conversation with a trusted colleague -- and get them to try
+* Try role-playing the conversation with a trusted colleague, and get them to try
 and trigger your stress reactions. Are you the kind of person who will get snappish if
 someone gets defensive and says you did something wrong too, or will you back down and
 start agreeing with the person that you are the one who messed up? Figure it out in 
