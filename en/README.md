@@ -6,7 +6,7 @@
   - [How to earn trust from others](self/earn-trust-from-others.md)
   - [How to gain credibility](self/gain-credibility.md)
   - [How to delegate comfortably](self/delegate-comfortably.md)
-  - [How to avoid the "busy = productive" trap](self/avoid-the-"busy-=-productive"-trap.md)
+  - [How to avoid the "busy = productive" trap](self/avoid-the-busy-productive-trap.md)
 
 ### How to manage your team
   - [How to communicate a vision](team/communicate-a-vision.md)
