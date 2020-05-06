@@ -1,4 +1,4 @@
-# How to Keep Track of Things
+# How to keep track of things
 
 When you are an individual contributor, you usually only have a few things to keep tabs on: a
 project or two, some tickets you are assigned to, a project you are collaborating with others

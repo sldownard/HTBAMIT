@@ -1,4 +1,4 @@
-# How to Move Fast without Breaking Things
+# How to move fast without breaking things
 
 Facebook adopted the motto, "move fast and break things," as a way of encouraging
 teams to minimize risk aversion, and to challenge the status quo and make

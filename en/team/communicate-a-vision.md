@@ -1,4 +1,4 @@
-# How to Communicate a Vision
+# How to communicate a vision
 
 Not every team is in the business of innovating -- some of us keep the lights on. But everyone 
 needs to have a vision, so they know why they are there and feel motivated to contribute. 
