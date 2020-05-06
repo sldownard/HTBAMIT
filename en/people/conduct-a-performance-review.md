@@ -95,6 +95,6 @@ someone gets defensive and says you did something wrong too, or will you back do
 start agreeing with the person that you are the one who messed up? Figure it out in 
 advance, so you can avoid falling into that trap when it really matters.
 
-# Additional resources
+# Additional reading
 
 * LHH. (n.d.). We Need to Talk: The Art & Science of the Difficult Conversation. Retrieved April 25, 2020, from https://www.lhh.com/uk/en/organisations/our-insights/we-need-to-talk-the-art-and-science-of-the-difficult-conversation

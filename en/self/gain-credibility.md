@@ -54,6 +54,3 @@ requirements? Once you have a good idea of how everything works, and (importantl
 believe that you have enough background to understand the system, your suggestions
 will have the weight of credibility behind them.
 
-# Additional reading
-
-* foo

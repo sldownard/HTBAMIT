@@ -34,12 +34,5 @@ because we all know no one is perfect, not even our bosses.
 
 ## Additional resources
 
-* _Leadership_ by Peter G. Northouse (any edition). 
-  This is a textbook which addresses various management models (e.g., Industrial Age/factory 
-  production line type management, Information Age type management). It provides an introduction
-  into models which provide useful background information, especially if you are interested in 
-  studying management.
-* _Designing your Life_ by Bill Burnett and Dave Evans.
-  This book is written from the point of view of a designer, and explores how to use 
-  techniques such as mind-mapping to creatively find paths forward. It has lots of good ideas
-  for activating your creative side.
+* Northouse, P. G. (2010). Leadership: theory and practice (5th ed.). Los Angeles, CA: Sage.
+* Burnett, W., & Evans, D. J. (2019). Designing your life: How to build a well-lived, joyful life. New York, New York: Alfred A. Knopf.

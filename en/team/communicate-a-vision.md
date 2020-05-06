@@ -60,7 +60,6 @@ an explicit agreement makes something feel more real, and it cements a decision 
 than if you just assume everyone agrees. 
 
 
-# For more reading
+# Additional reading
 
 * Goleman, D. (2004). What makes a leader? Harvard Business Review, 82(1), 82-91.
-  - foo

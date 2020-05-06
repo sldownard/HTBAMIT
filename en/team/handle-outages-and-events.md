@@ -63,8 +63,5 @@ dissatisfaction after the event.
 
 
 # Additional reading
-* Amazon Web Services. (n.d.). AWS Well-Architected Framework: Concepts: Game Day. Retrieved April 27, 2020, from https://wa.aws.amazon.com/wat.concept.gameday.en.html
-  - This page goes over AWS' process for running a game day to test failures and processes, 
-    how to analyze the results, and to use a correction of error process to resolve the 
-    issues that came up during the game day.
 
+* Amazon Web Services. (n.d.). AWS Well-Architected Framework: Concepts: Game Day. Retrieved April 27, 2020, from https://wa.aws.amazon.com/wat.concept.gameday.en.html

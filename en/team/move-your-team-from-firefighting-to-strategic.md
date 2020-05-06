@@ -49,6 +49,4 @@ when the change is slow or hidden, like a slowed rate of incoming tickets, or on
 three customer-impacting events a week instead of four. And tell people to take 
 their vacations. 
 
-# For additional reading
-
 

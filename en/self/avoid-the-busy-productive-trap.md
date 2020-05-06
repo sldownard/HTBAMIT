@@ -30,11 +30,3 @@ that expectation. Changing doesn't necessarily mean quitting (although it might,
 in a really toxic environment), but it means setting boundaries, getting agreement from your
 manager, and sticking to it.
 
-# For more reading
-
-* Sutton, R. I. (2010). The no asshole rule: building a civilized workplace and surviving 
-  one that isn't. New York: Business Plus.
-  This is a modern classic. Bob Sutton sets out the problem of what happens when you have 
-  toxic employees or a toxic manager, the problems toxic behavior can cause (such as stress,
-  poor morale, and depression), and how you can protect yourself and others from
-  that toxicity. Read this book and don't work for assholes.

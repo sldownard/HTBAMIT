@@ -41,6 +41,3 @@ teams), and how you handle that will be up to you, but the important thing is to
 date and try to make it, and learn about sizing estimates as you go, so you get better
 and more reliable about dates over time.
 
-# Additional reading
-
-

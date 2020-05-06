@@ -63,7 +63,7 @@ and tear it down when it's a hindrance. Knowing that your product will mirror yo
 organization, start from the product and work backwards to build the organization.
 
 
-# For additional reading
+# Additional reading
 
 * Tune, N. (2018, May 11). An Introduction to Sociotechnical Architecture Patterns. Retrieved from https://medium.com/nick-tune-tech-strategy-blog/an-introduction-to-sociotechnical-architecture-patterns-ea64a75c2aaf
 * Tune, N. (2019, September 25). Organisational Dysfunctions Mirrored as Architectural Complexity. Retrieved from https://medium.com/nick-tune-tech-strategy-blog/organisational-dysfunctions-mirrored-as-architectural-complexity-b5a903b3f5b2

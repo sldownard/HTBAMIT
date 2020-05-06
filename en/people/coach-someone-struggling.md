@@ -58,4 +58,4 @@ a mutual understanding so you're starting from the same place and agreed upon th
 * Gardner, M. (2019, August 20). Imposter syndrome and the tech industry: It's real. Retrieved May 05, 2020, from https://mutualmobile.com/resources/3-reasons-imposter-syndrome-thrives-in-tech-and-how-tech-companies-can-fight-back
 * Mohr, T. (2015). [Helping an employee overcome their self-doubt.](https://hbr.org/2015/10/helping-an-employee-overcome-their-self-doubt) Harvard Business Review Digital Articles, 10/1/2015, P2.
 * Vergauwe, J., Wille, B., Feys, M., De Fruyt, F., & Anseel, F. (2015). Fear of being exposed: The trait-relatedness of the impostor phenomenon and its relevance in the work context. Journal of Business and Psychology, 30(3), 565-581. doi:10.1007/s10869-014-9382-5
-* https://www.teamblind.com/blog/index.php/2018/09/05/58-percent-of-tech-workers-feel-like-impostors/
+* Kim. (2019, February 12). 58 Percent of Tech Workers Feel Like Impostors. Retrieved from https://www.teamblind.com/blog/index.php/2018/09/05/58-percent-of-tech-workers-feel-like-impostors/

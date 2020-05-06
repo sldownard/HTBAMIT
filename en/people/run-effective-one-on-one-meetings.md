@@ -37,6 +37,3 @@ you are both effective and productive at work.
 
 # Additional reading
 * Apodaca, M. (2020, March 17). How to Practice Active Listening (A Step-By-Step Guide). Retrieved from https://www.lifehack.org/833813/active-listening-skills
-  - This guide teaches you the basics about how and why to use active listening to build a
-    rapport and really understand where people are coming from.
-

@@ -32,16 +32,8 @@ and more effective.
 
 
 
-# References
+# Additional reading
 
 * Beck, R., & Harter, J. (2014). Why good managers are so rare. Harvard Business Review Digital Articles, 3/13/2014, P2.
-  - This article talks about the need for selecting leaders based on their skill at management,
-    and the value that effective leaders bring to profitability.
 * Bennis, W. G., & Nanus, B. (1997). Leaders: the strategies for taking charge (2nd ed.). HarperBusiness. 
-  - This classic book talks about the characteristics for leading teams of any size. It's short
-    and well worth the read.
 * Carnegie, D. (1913). How to win friends influence people. Kingswood: The Worlds Work.
-  - This book, another short classic, is billed as the only management book you'll ever need, for
-    a reason. Its central theme is that through empathizing with others, you will gai their
-    trust and cooperation so that you can accomplish things together. Although its examples are
-    dated, the principles are still sound.
