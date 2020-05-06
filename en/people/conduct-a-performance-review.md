@@ -40,14 +40,14 @@ primary responsibilities. When you see that sort of
 thing happening, you can step in to redirect people back to the right tasks, or find 
 out why they are working on the wrong tasks. 
 
-When it comes to [glue work](https://noidea.dog/glue) in particular: you may have one engineer who is the one
-who makes space for everyone to contribute in meetings, who knows people on all the
+Sometimes, you may have one engineer who is the key person who makes space for 
+everyone to contribute in meetings, who knows people on all the
 other teams and can make connections to help unblock their colleagues, or who just
 makes things happen and keeps the team performing at a high level. This work is called
-glue work because it keeps things from coming apart. Especially if your teams are
+glue work because it keeps things from coming apart [1]. Especially if your teams are
 cross-functional and this one engineer is the one who keeps tabs on everything, this
 work is valuable and you should recognize the value that they bring. You should also
-recognize that glue engineering is an anti-pattern. They are likely not doing it 
+recognize that glue work is an anti-pattern. They are likely not doing it 
 because they secretly want to be a TPM instead of a software developer, but because 
 they saw a problem and knew someone had to keep things from falling apart, so they 
 stepped up. That's leadership in action. Unfortunately, it often gets looked over 
@@ -71,10 +71,13 @@ not realize they did well at all, especially people with high standards who thin
 are "just doing their jobs." Showing that you were paying attention and you noticed when
 someone did something well is a powerful tool for encouragement and increasing engagement.
 
-But you also need to deliver constructively critical feedback. Engineers want data, because
-you can't fix what you can't see. When someone does so-so, or outright poorly, they might
+But you also need to deliver honest, constructively critical feedback. Engineers want 
+data. You can't fix what you can't see. When someone does so-so, or outright poorly, they might
 not enjoy hearing it (especially if they thought they did better), but your job as a 
-manager is to have that conversation and help people learn and grow. 
+manager is to have that conversation and help people learn and grow. If you are honest
+and the criticism is delivered in a way that outlines how it can be improved and why,
+it will help the person. And if you hold back because you don't want
+to hurt anyone's feelings, you are robbing that person of the chance to improve.
 
 Difficult conversations are hard and sometimes unpleasant, and nobody looks forward to
 them, but as a manager you must be able to handle them without procrastination, with 
@@ -98,3 +101,4 @@ advance, so you can avoid falling into that trap when it really matters.
 # Additional reading
 
 * LHH. (n.d.). We Need to Talk: The Art & Science of the Difficult Conversation. Retrieved April 25, 2020, from https://www.lhh.com/uk/en/organisations/our-insights/we-need-to-talk-the-art-and-science-of-the-difficult-conversation
+* [1] Reilly, T. (n.d.). Being Glue. Retrieved April 25, 2020, from https://noidea.dog/glue

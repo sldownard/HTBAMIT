@@ -1,10 +1,10 @@
 # How to move fast without breaking things
 
-Facebook adopted the motto, "move fast and break things," as a way of encouraging
-teams to minimize risk aversion, and to challenge the status quo and make
-changes rather than playing it safe. But in 2014, even they backed down from breakage, and changed it to "move
-fast with stable infrastructure." It turns out that, as a group, our customers don't
-like it when we move so fast we break their stuff. 
+Facebook adopted the motto "move fast and break things" as a way of encouraging
+teams to minimize risk aversion, and to enable them to challenge the status quo and 
+innovate rather than playing it safe. But in 2014, even they backed down from breakage, 
+and changed it to "move fast with stable infrastructure." It turns out that
+customers don't like it when we move so fast we break their stuff.
 
 The challenge that we have as technical managers is to enable our teams to move
 as quickly as possible without compromising operational stability, because ops is what we
@@ -19,7 +19,7 @@ people tell you to get something done faster. Which they will.
 
 In short, it comes down to three things: 
 1. Quality must be a first-class citizen in your 
-development process, from unit and integ testing, to metrics and alarming, to regularly
+development process, from code reviews and unit and integ testing, to metrics and alarming, to regularly
 reviewing your change process and [technical debt](address-technical-debt.md) backlogs
 so you know what your operational risks are. Unless you are producing quality work,
 and your automation and instrumentation can back you up on it, you will break things.

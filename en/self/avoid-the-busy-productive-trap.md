@@ -11,14 +11,17 @@ right work, producing the right results to advance your organization's mission. 
 be busy all day long replacing printer paper but if you don't ship features then what was
 the point? Choose the right work, by understanding the organization's mission and making 
 trade-offs between that which is required for operations and that which moves the organization
-forward. That might mean letting technical debt stagnate, and noisy tickets continue to 
-build up, while you focus on migrating to a new deployment system that will have better
-automated integ testing approvals and auto-rollback. When you do make a choice like that, make
-sure that your team understands the reasoning and what they should be doing. If someone feels that
-the tickets absolutely must be investigated and closed out, when they should have been letting
-them lie, then the person can build up resentments (they kept operations running at a high level
-of quality, but no one else did!) and feel left out and unappreciated (they didn't have much 
-to do with the new system, which got all the praise, because they were focused on tickets).
+forward. That might mean letting [technical debt](../team/address-technical-debt.md) stagnate 
+and noisy alarms continue to fire, while you focus on migrating to a new deployment system that 
+will have better automated integ testing approvals and auto-rollback so the defects don't get
+out in the first place. When you make a choice like that, make sure that your team 
+understands the reasoning and what they should be doing. Communication is how you get
+everyone to commit, especially when they are inclined to disagree. Without commitment, you
+can find people feeling left out or resentful. For example, if someone feels that
+the tickets absolutely must be investigated and closed out, while others agreed to let
+them lie to pursue the long term fix, then that person may feel bitter (they kept operations running at a high level
+of quality, but no one else did!) and and unappreciated (they didn't have much 
+to do with the new system, which got all the praise, because they were busy with tickets).
 
 Another aspect to mistakenly linking busy with productive is being always on. You most likely
 do not have to read every work email at 10PM or on weekends. And your team does not have to 

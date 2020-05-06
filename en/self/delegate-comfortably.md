@@ -15,12 +15,12 @@ to take that work on, because they need to learn to excel, too, to develop their
 As a manager, it's your job to funnel the right work to people so that they are continuously 
 being given appropriate challenges to keep them interested and engaged. If you hold back 
 the challenging work, people will notice, and they will interpret that as a lack of trust 
-or you hoarding "the good projects." On the other hand, if you funnel projects to people
+or you hoarding prize projects. On the other hand, if you funnel projects to people
 without giving them the right support to actually complete it to a high standard, like
 giving someone something that's over their head and not being there when they ask you for
 a pointer, people will feel set up to fail. 
 
-Delegating appropriately takes three skills:
+Delegating appropriately takes four skills:
 * Know your own capabilities. Your todo list is a stack that can only hold so much, and
   either a new task will pop something out, or you will have to pop something off yourself
   to let the new task in. This means sometimes you have to say "no," and sometimes you

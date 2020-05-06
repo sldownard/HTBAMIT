@@ -27,9 +27,10 @@ the nuts and bolts). Bring that draft document to the team and stakeholders for 
 Are these the right priorities? Are they in the right order? 
 
 Don't get too hung up on tools at this point. You don't need to learn Project and create 
-a beautiful Gantt chart, you don't need all the milestones, epics, and stories in Jira. What 
+a beautiful Gantt chart, and you don't need all the milestones, epics, and stories in Jira. What 
 you need is a list that people can look at, understand, and give you meaningful feedback 
-about. You can do that with any wiki page or even a plaintext document.
+about. You can do that with any wiki page or even a plaintext document, so long as everyone
+has access to it and everyone trusts it.
 
 Once you know about what it is that you're working on, start diving into high-level
 definitions and time estimates. This is where it's handy to know a bit about the team's

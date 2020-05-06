@@ -37,11 +37,12 @@ other connections when you can, like if they are working on an operational issue
 your team already looked into, ask if they want help from your team to help them
 solve it faster. 
 
-Once you have a good relationship set up, don't forget to maintain it. Keep in
-regular touch, even when you don't need anything, and make sure they know you
-are willing to work with them if they need something. Then your teams can 
-work more effectively together, and you may even be able to bring other teams
-in to collaborate and have more influence within your organization/
+Once you have a good relationship set up, don't forget to maintain it. This takes
+effort but it's the only way to maintain that bridge.  Keep in regular touch, 
+even when you don't need anything, and make sure they know you
+are willing to help if they need something. Your teams will be able to work 
+more effectively together, and you may even be able to bring other teams
+in to collaborate and have more influence within your organization as a result.
 
 
 # Additional reading

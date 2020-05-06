@@ -32,8 +32,8 @@ customer service and support, and dependencies/interested parties. After the eve
 your job is to debrief with the team, analyze the event, and correct the conditions 
 that led to the outage.
 
-Because you are Mission Control and not the astronauts, you might feel unsettled,
-or feel like you should be on the ground actually solving the problem. You need to
+Because you are Mission Control and not an astronaut anymore, you might feel unsettled,
+or like you should be on the ground actually solving the problem. You need to
 resist that, and stay focused on getting information where it needs to go. Be the
 hands writing notes for your team so they don't need to, be the record of what has
 happened for when they are stressed and can't remember what happened when they tried
@@ -43,7 +43,7 @@ help them be effective. This is your contribution during the event.
 
 Hopefully your organization has a plan for major events, but if you work for a smaller
 organization, or a newer one, you might need to create one. You should do this before
-one happens. A great way to do that is to do game days: an exercise where you
+you need it. A great way to do that is to do game days: an exercise where you
 break something in a non-production environment and practice recovering it using your
 existing operational tools and runbooks. It's important to treat it as if it were prod 
 and not take shortcuts (for example, actually write an update and try to post it to
@@ -54,7 +54,7 @@ uncommon code path, you won't know what your tests don't cover until you exercis
 
 After the event, keep your cool. You must resist at all costs the urge to point
 fingers. What about if it wasn't your team's fault, but a service you depend on had
-an outage that cascaded to cause your issue?
+an outage that cascaded to cause your issue? Focus on what is within your control.
 Analyze your use of that dependency, and see if there are things you could do 
 differently. If there are, you can see if they are worth pursuing, and if there aren't,
 you need to choose if you accept the risk or if you should get off that dependency.

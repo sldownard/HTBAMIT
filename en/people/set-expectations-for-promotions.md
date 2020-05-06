@@ -15,7 +15,8 @@ other to tell them honestly, how close the engineer is to a promotion, though,
 then how will you know if you are both expecting similar outcomes? If one of your
 engineers thinks they are doing well and certainly about to get promoted, but you 
 think they have about two years' work between them and a senior role, that's a disaster
-that could have been avoided with a few open, two-way conversations and well-chosen
+that could have been avoided with a [trusting relationship](../earn-trust-from-others.md)
+and a few open, two-way conversations and well-chosen
 skills development or training opportunities.
 
 When you're checking in with your engineers during their one-on-ones, periodically
@@ -23,9 +24,9 @@ talking about their career goals and what project work you have that they can de
 their skills on, talk to them about how they think they are doing in their career. 
 While they talk, if they sound overly optimistic, don't listen to them and think 
 to yourself, "I don't think they're as close as they think they
-are." You can't make promises, but you need to push back on unrealistic expectations.
+are." Don't ever make promises, but tactfully correct unrealistic expectations.
 Think about some get-rich-quick or lose-weight-fast scheme someone you knew was
-let down by -- if they'd had realistic expectations, they would not have been 
+let down by; if they'd had realistic expectations, they would not have been 
 disappointed. Try and take time and emotion out of career progress and promotion 
 discussions as much as possible, even if 
 the person makes an ultimatum, like "if I don't make senior in six months, I'm 
