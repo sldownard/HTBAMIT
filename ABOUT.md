@@ -35,6 +35,8 @@ your resource usage.
 * Write in the second ("you click") or third person ("they click"). Avoid first person ("I click"). Use singular they in the third person.
 * Write in the active voice ("they write code") rather than passive ("code is written 
 by them").
+* When citing a reference or providing an Additional Reading reference, use APA format for the
+endnote citation but IEEE-style inline citations. 
 * Use people-based language. The people who report to the people reading this 
 Guide are "engineers," not "directs," "reports," or "resources." (If appropriate,
 terms like "new hire" can be used for disambiguation.)
