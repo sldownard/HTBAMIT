@@ -7,7 +7,7 @@ A lot of that starts with an introduction and asking how things are going.
 
 You may find that an organization has several shapes. Warren Bennis describes surveying
 organizations to study leadership, and finding four. There's the formal organization
-strucutre, which appears on the org charge; the structure that people perceive the
+strucutre, which appears on the org chart; the structure that people perceive the
 organization to have; the actual structure that appears when you observe how people
 actually get things done; and last, there's the structure that should exist in order 
 for the organization to be able to complete its stated mission. Think about your 
